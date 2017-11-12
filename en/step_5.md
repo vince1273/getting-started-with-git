@@ -12,6 +12,6 @@ You're going to be working in a terminal window for the duration of this resourc
 - Next you need to tell Git which text editor you want to use. If you don't have any particularly strong feelings about text editors, then you can just type:
 
 	```bash
-	git config --global core.editor nano
+	git config --global core.editor notepad
 	```
 
